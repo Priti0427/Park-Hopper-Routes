@@ -77,4 +77,3 @@ Project coordination through [GitHub Issues](https://github.com/) and Discord.
 
 ---
 
-_This is a temporary README. Will be updated as the project progresses._
