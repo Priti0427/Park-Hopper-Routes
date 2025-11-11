@@ -7,7 +7,7 @@ A collaborative project between TripleTen Data Science and Software Engineering 
 The goal of this project is to build a lightweight, functional tool that:
 
 - Plans a vacation through a selection of National Parks based on the user's preferences
-- Applies a route optimization algorithm to minimize travel distance (Greedy Nearest Neighbor)
+- Applies a route optimization algorithm to minimize travel distance (we used Greedy Nearest Neighbor)
 - Displays the determined travel route on an interactive map
 
 This tool could serve use cases in delivery services, travel planning, field technician routing, or logistics.
