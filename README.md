@@ -30,12 +30,10 @@ This tool could serve use cases in delivery services, travel planning, field tec
 | Name    | Role                 |
 | ------- | -------------------- |
 | Lily    | Software Engineering |
-| Matthew | Software Engineering |
-| Vanessa | Software Engineering |
 | Paul    | Data Science         |
 | Priti   | Data Science         |
 
-## 📁 Project Structure (Tentative)
+## 📁 Project Structure 
 
 ```text
 route-optimization-mvp/
@@ -65,11 +63,7 @@ route-optimization-mvp/
 | 🧪 Testing     | Deployment, Submission   | 7/21/2025   |
 | 🚀 Launch      | Presentation             | 7/22/2025   |
 
-## 📝 Notes
 
-- Algorithm selection and trade-offs will be discussed as a group.
-- Aim to build something that _works_, then iterate and optimize.
-- Keep code modular and readable for team collaboration.
 
 ## 📬 Contact & Communication
 
